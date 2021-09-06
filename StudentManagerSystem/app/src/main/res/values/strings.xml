@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StudentManagerSystem</string>
+    <string name="b1">添加</string>
+    <string name="b2">清空</string>
+    <string name="t2">姓名</string>
+    <string name="t3">性别</string>
+    <string name="t1">学号</string>
+    <string name="t4">籍贯</string>
+    <string name="t5">成绩</string>
+    <string name="textview">学生信息管理系统</string>
+    <string name="text">排序方式：</string>
+    <string name="todo">TODO</string>
+</resources>
